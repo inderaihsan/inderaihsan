@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @inderaihsan
 - 👀 I’m interested in data science and machine learning
-- 🌱 I’m currently learning automated machine learning, NLP
+- 🌱 I’m currently learning automated machine learning, NLP and Software Engineering
 
 
 <!---
