@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @inderaihsan
-- 👀 I like to watch cat videos while surfing the internet. 
-- 🌱currently learning statistic, object oriented programming and machine learning
+- Hi, I’m @inderaihsan
+- I am currently learning statistic, object oriented programming and machine learning
 
 
 <!---
