@@ -1,5 +1,5 @@
 Hi, I’m @inderaihsan
-I am currently learning statistic, object oriented programming and machine learning
+I am currently learning inferential statistic, object oriented programming and machine learning
 
 
 <!---
