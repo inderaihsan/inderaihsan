@@ -1,4 +1,4 @@
-Data Scientist / Junior Programmer. 
+Data Scientist / Back End Developer. 
 
 
 
