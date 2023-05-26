@@ -1,4 +1,4 @@
-Data Scientist / Back End Developer. 
+Data Scientist / Back End Engineer. 
 - :telescope: I’m working as a Data Scientist and Back end engineer.
 
 - :seedling: Exploring Spatial Data.
