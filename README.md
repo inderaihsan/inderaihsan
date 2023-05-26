@@ -1,5 +1,5 @@
 Data Scientist / Back End Developer. 
-- :telescope: I’m working as a Data Scientist and contributing backend for building web applications.
+- :telescope: I’m working as a Data Scientist and Back end engineer.
 
 - :seedling: Exploring Spatial Data.
 
