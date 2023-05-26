@@ -3,7 +3,7 @@ Data Scientist / Back End Developer.
 
 - :seedling: Exploring Spatial Data.
 
-- :zap: In my free time, I am running a coffee beans roastery business and read tech articles.
+- :zap: In my free time, I like to watch cat videos on internet 🐈.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/indera-ihsan-018044175/)
 
